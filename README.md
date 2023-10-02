@@ -20,7 +20,7 @@
 <a href="https://twitter.com/ganorkaraveg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganorkaraveg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aveg-ganorkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aveg-ganorkar" height="30" width="40" /></a>
 <a href="https://instagram.com/aveg741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aveg741" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/darakh2705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="darakh2705" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@darakh2705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="darakh2705" height="30" width="40" /></a>
 <a href="https://discord.gg/695643805201727489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="695643805201727489" height="30" width="40" /></a>
 </p>
 
