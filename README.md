@@ -86,11 +86,4 @@ n8n | Workflow automation | API integrations
  
 📧 **darakhtech@gmail.com**
  
----
- 
-### 📈 GitHub Stats
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarakhTech&show_icons=true&theme=default)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarakhTech&layout=compact)
  
