@@ -28,25 +28,15 @@ Building intelligent systems with Machine Learning, Generative AI, and Data Engi
  
 ### 🛠️ Tech Stack
  
-**Languages**
+**Languages:** Python | SQL | JavaScript
  
-Python | SQL | JavaScript
+**Machine Learning & AI:** Scikit-learn | PyTorch | NLP | RAG | LLM applications
  
-**Machine Learning & AI**
+**Data & Analytics:** Pandas | NumPy | Airflow | Snowflake | Tableau
  
-Scikit-learn | PyTorch | NLP | RAG | LLM applications
+**Cloud & Tools:** AWS | Streamlit | Git | Docker | GitHub Copilot
  
-**Data & Analytics**
- 
-Pandas | NumPy | Airflow | Snowflake | Tableau
- 
-**Cloud & Tools**
- 
-AWS | Streamlit | Git | Docker | GitHub Copilot
- 
-**Automation**
- 
-n8n | Workflow automation | API integrations
+**Automation:** n8n | Workflow automation | API integrations
  
 ---
  
